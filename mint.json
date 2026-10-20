@@ -1,16 +1,16 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.0-rc.2",
   "description": "CLI tool to generate boilerplate files and directories",
   "homepage": "https://github.com/saikiranp-24/mint",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/saikiranp-24/mint/releases/download/v0.1.0/mint-v0.1.0-x86_64-pc-windows-msvc.zip",
-      "hash": "REPLACE_WITH_WIN_X86_64_SHA"
+      "url": "https://github.com/saikiranp-24/mint/releases/download/v0.1.0-rc.2/mint-v0.1.0-rc.2-x86_64-pc-windows-msvc.zip",
+      "hash": "de22d18ce072a588ef77405ff0fcf5d4c124e4df6cfd0e5c96b78fa5ff18db90"
     },
     "arm64": {
-      "url": "https://github.com/saikiranp-24/mint/releases/download/v0.1.0/mint-v0.1.0-aarch64-pc-windows-msvc.zip",
-      "hash": "REPLACE_WITH_WIN_ARM64_SHA"
+      "url": "https://github.com/saikiranp-24/mint/releases/download/v0.1.0-rc.2/mint-v0.1.0-rc.2-aarch64-pc-windows-msvc.zip",
+      "hash": "5fbb210286afa9a6ab797add13d21fc078a52e75876552384d030e451ffbd65e"
     }
   },
   "bin": "mint.exe",
