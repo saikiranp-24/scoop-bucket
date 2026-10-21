@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/saikiranp-24/mint/releases/download/v0.1.0/mint-v0.1.0-x86_64-pc-windows-msvc.zip",
-      "hash": "db8c8092c996f38df6ff73d24b1f6e166e7312333a5a2f4b2977224225dba31d"
+      "hash": "64fc9e1bc270bb6b2f1cffe5f920cc48833c7e8b07ba19ed5989cf6377c135a2"
     },
     "arm64": {
       "url": "https://github.com/saikiranp-24/mint/releases/download/v0.1.0/mint-v0.1.0-aarch64-pc-windows-msvc.zip",
-      "hash": "3ddddcc66aaf6b4a6bae3bb53e75cb906b620681c8dfb198125575749aaa2550"
+      "hash": "c50040f00a657079ba8585ba374e724f6b9773aca64c58cb514b81e7695eac63"
     }
   },
   "bin": "mint.exe",
